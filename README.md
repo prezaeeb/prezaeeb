@@ -40,7 +40,7 @@ My projects demonstrate my ability to apply advanced analytics and machine learn
 Embeddings
 
 - **Technologies:** Python, NLP, Machine Learning, Deep Learning, LLMs
-- **Repository:** 
+- **Repository:** https://github.com/prezaeeb/SimCSE_Embeddings
 
 
 
