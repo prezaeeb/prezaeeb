@@ -31,7 +31,7 @@
    - **Data Visualization:** Power BI Tableau
 
 
-- **📫 How to reach me:** parisarezaeeborj@gmail.com
+
      
 
 
