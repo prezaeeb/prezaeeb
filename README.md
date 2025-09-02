@@ -22,14 +22,17 @@
 
 - **Data & Cloud Tools:**
 
-- **Cloud:** Microsoft Azure (primarily), AWS
+    - **Cloud:** Microsoft Azure (primarily), AWS
 
-- **Data Warehousing & ETL:** Databricks, dbt, ETL processes,
+    - **Data Warehousing & ETL:** Databricks, dbt, ETL processes,
 
-- **Version Control:** Git
+    - **Version Control:** Git
+
+   - **Data Visualization:** Power BI Tableau
 
 
-- **Data Visualization:** Power BI Tableau
+- **📫 How to reach me:** parisarezaeeborj@gmail.com
+     
 
 
 
@@ -40,4 +43,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/parisa-rezaee-4bb5bb59/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parisa-rezaee-4bb5bb59/" height="30" width="40" /></a>
 </p>
-- 📫 How to reach me **parisarezaeeborj@gmail.com**
+
+
+- **📫 How to reach me:** parisarezaeeborj@gmail.com
