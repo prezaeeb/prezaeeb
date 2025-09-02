@@ -45,8 +45,8 @@ Embeddings
 
  <h3 align="left">Project 2:</h3>  Anomaly Detection
 
-- **Technologies:** Python, scikit-learn, SQL, Azure
-- **Repository:**
+- **Technologies:** Python, scikit-learn, ETL
+- **Repository:** https://github.com/prezaeeb/Anomaly-Detection/tree/main
 
 
 <h3 align="left">Connect with me:</h3>
