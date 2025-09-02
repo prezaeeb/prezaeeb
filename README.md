@@ -29,7 +29,7 @@
 - **Version Control:** Git
 
 
-- Data Visualization: **Power BI Tableau**
+- **Data Visualization:** Power BI Tableau
 
 
 
