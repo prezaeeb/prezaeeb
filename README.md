@@ -22,7 +22,7 @@
 
 - **Data & Cloud Tools:**
 
-- **Cloud:** Microsoft Azure (primarily),
+- **Cloud:** Microsoft Azure (primarily), AWS
 
 - **Data Warehousing & ETL:** Databricks, dbt, ETL processes,
 
