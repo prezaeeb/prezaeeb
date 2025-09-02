@@ -39,11 +39,14 @@ My projects demonstrate my ability to apply advanced analytics and machine learn
  <h3 align="left">Project 1:</h3>  Detecting Online Grooming By Simple Contrastive Chat
 Embeddings
 
-- **Technologies:** Python, NLP, Machine Learning, Deep Learning, LLMs
+- **Technologies:** Python, NLP, Machine Learning, Deep Learning, LLMs, Azure
 - **Repository:** https://github.com/prezaeeb/SimCSE_Embeddings
 
 
+ <h3 align="left">Project 2:</h3>  Anomaly Detection
 
+- **Technologies:** Python, scikit-learn, SQL, Azure
+- **Repository:**
 
 
 <h3 align="left">Connect with me:</h3>
