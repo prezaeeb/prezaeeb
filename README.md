@@ -49,7 +49,13 @@ Embeddings
 - **Repository:** [https://github.com/prezaeeb/Anomaly-Detection/tree/main](https://github.com/prezaeeb/LLM-Location-Detector)
   
 
- <h3 align="left">Project 3:</h3>  Anomaly Detection
+<h3 align="left">Project 3:</h3>  Economic Policy Analyzer
+
+- **Technologies:** Python, ELT, LLMs, API, Google Search Grounding, requests, JSON
+- **Repository:** [https://github.com/prezaeeb/Anomaly-Detection/tree/main](https://github.com/prezaeeb/Economic-Policy-Analyzer)
+  
+
+ <h3 align="left">Project 4:</h3>  Anomaly Detection
 
 - **Technologies:** Python, scikit-learn, ETL
 - **Repository:** https://github.com/prezaeeb/Anomaly-Detection/tree/main
