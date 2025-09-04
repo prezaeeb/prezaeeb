@@ -43,7 +43,13 @@ Embeddings
 - **Repository:** https://github.com/prezaeeb/SimCSE_Embeddings
 
 
- <h3 align="left">Project 2:</h3>  Anomaly Detection
+ <h3 align="left">Project 2:</h3>  LLM Location Detector
+
+- **Technologies:** Python, LLMs, API, Geospatial Data Visualization (Folium), JSON
+- **Repository:** [https://github.com/prezaeeb/Anomaly-Detection/tree/main](https://github.com/prezaeeb/LLM-Location-Detector)
+  
+
+ <h3 align="left">Project 3:</h3>  Anomaly Detection
 
 - **Technologies:** Python, scikit-learn, ETL
 - **Repository:** https://github.com/prezaeeb/Anomaly-Detection/tree/main
