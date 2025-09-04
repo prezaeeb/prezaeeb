@@ -45,7 +45,7 @@ Embeddings
 
  <h3 align="left">Project 2:</h3>  LLM Location Detector
 
-- **Technologies:** Python, LLMs, API, Geospatial Data Visualization (Folium), JSON
+- **Technologies:** Python, ELT, LLMs, API, Geospatial Data Visualization (Folium), JSON
 - **Repository:** [https://github.com/prezaeeb/Anomaly-Detection/tree/main](https://github.com/prezaeeb/LLM-Location-Detector)
   
 
